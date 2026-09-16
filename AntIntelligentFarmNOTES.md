@@ -11,7 +11,7 @@ this to an AI that has control of the player will enable us to get a deeper unde
 
 ---
 
-# To-Do (High Priority):
+## To-Do (High Priority):
 >	Change settings in Unity to support my input system design that uses Unity's legacy input detection.
 >	Refine scripts to support the AI agent.
 

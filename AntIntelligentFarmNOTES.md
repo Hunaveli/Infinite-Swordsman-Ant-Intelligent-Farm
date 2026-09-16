@@ -4,10 +4,10 @@
 --
 
 # Project Details: 
-	This is an independent research project that implements the NEAT (Neuro-Evolution of Augmenting Topologies) algorithm to train an artifical intelligence to get as high of a round as possible on my 2-D top down platform video game "Infinite Swordsman: Slayer".
+This is an independent research project that implements the NEAT (Neuro-Evolution of Augmenting Topologies) algorithm to train an artifical intelligence to get as high of a round as possible on my 2-D top down platform video game "Infinite Swordsman: Slayer".
 
-	The NEAT algorithm trains an artificial neural network based on concepts taken from evolutionary biology. Implementing
-	this to an AI that has control of the player will enable us to get a deeper understanding of machine learning and the algorithm itself. With each mutation that's created, hopefully the AI will survive longer and longer, displaying evolution.
+The NEAT algorithm trains an artificial neural network based on concepts taken from evolutionary biology. Implementing
+this to an AI that has control of the player will enable us to get a deeper understanding of machine learning and the algorithm itself. With each mutation that's created, hopefully the AI will survive longer and longer, displaying evolution.
 
 --
 
